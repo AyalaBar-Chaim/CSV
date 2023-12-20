@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\bin\Debug\net8.0\CSVTask.exe
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\bin\Debug\net8.0\CSVTask.deps.json
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\bin\Debug\net8.0\CSVTask.runtimeconfig.json
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\bin\Debug\net8.0\CSVTask.dll
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\bin\Debug\net8.0\CSVTask.pdb
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\CSVTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\CSVTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\CSVTask.AssemblyInfo.cs
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\CSVTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\CSVTask.dll
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\refint\CSVTask.dll
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\CSVTask.pdb
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\CSVTask.genruntimeconfig.cache
+C:\Users\User\Desktop\CSVTask\CSVTask\CSVTask\obj\Debug\net8.0\ref\CSVTask.dll
